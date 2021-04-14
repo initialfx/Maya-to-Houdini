@@ -5,6 +5,8 @@
 At the moment is FBX the standard format to transfer scenes between different software. The problem is that FBX does not recognize a plugin data and just throws it away.
 It is handy to have exactly the same light-setup in both the software-packages.
 Otherwise the simulation's will not align  when brought together.
+
+FBX로 데이타를 마야에서 후디니로 보내는거 보다는 일단 데이타를 모두 읽어서 JSON타입의 데이타셋으로 저장한 다음 후디니에서 다시 불러와서 라이트 리그를 재구성합니다. 어렵지 않고 그냥 직관적입니다. 
 ## How?
 
 Inside Maya, copy the content of the script in the 'Script Editor'. Click 'Add to shelf' to keep it when restarting.
