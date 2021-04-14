@@ -1,6 +1,5 @@
 ## What?
-
-Bring your Redshift light-setup from Maya to Houdini with the click of a button! (two buttons actually) 
+한국어로 서비스할 예정입니다. 몇가지 수정사항에 대해서 공지하도록 할께요.
 ## Why?
 
 At the moment is FBX the standard format to transfer scenes between different software. The problem is that FBX does not recognize a plugin data and just throws it away.
