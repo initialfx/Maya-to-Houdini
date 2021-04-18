@@ -1,224 +1,55 @@
-[
-    {
-        "SAMPLINGOVERRIDES_numShadowSamples": 8, 
-        "SAMPLINGOVERRIDES_shadowSamplesScale": 0.0, 
-        "affectedByRefraction": 1, 
-        "affectsDiffuse": true, 
-        "affectsSpecular": true, 
-        "areaBidirectional": false, 
-        "areaSamples": 16, 
-        "areaShape": 0, 
-        "areaSpread": 1.0, 
-        "areaVisibleInRender": true, 
-        "color": [
-            [
-                1.0, 
-                1.0, 
-                1.0
-            ]
-        ], 
-        "colorB": 1.0, 
-        "colorG": 1.0, 
-        "colorMode": 0, 
-        "colorR": 1.0, 
-        "decayType": 0, 
-        "diffuseRayContributionScale": 1.0, 
-        "dropoff": 0.0, 
-        "emitCausticPhotons": false, 
-        "emitGiPhotons": false, 
-        "exposure": 0.0, 
-        "falloffStart": 0.0, 
-        "falloffStop": 100.0, 
-        "filename": "MayaRS", 
-        "glossyRayContributionScale": 1.0, 
-        "indirectMaxTraceDepth": 255, 
-        "indirectRayContributionScale": 1.0, 
-        "intensity": 100.0, 
-        "lumensperwatt": 17.0, 
-        "multipleScatteringRayContributionScale": 1.0, 
-        "name": "rsPhysicalLight1", 
-        "normalize": false, 
-        "on": true, 
-        "photonIntensityMultiplierCaustics": 1.0, 
-        "photonIntensityMultiplierGI": 1.0, 
-        "rotate": [
-            [
-                -31.8, 
-                36.0, 
-                0.0
-            ]
-        ], 
-        "scale": [
-            [
-                1.0, 
-                1.0, 
-                1.0
-            ]
-        ], 
-        "shadow": true, 
-        "shadowTransparency": 0.0, 
-        "singleScatteringRayContributionScale": 1.0, 
-        "spotConeAngle": 40.0, 
-        "spotConeFalloffAngle": 5.0, 
-        "spotConeFalloffCurve": 1.0, 
-        "temperature": 6500.0, 
-        "translate": [
-            [
-                6.219697454525792, 
-                6.266890088137157, 
-                7.715924808703778
-            ]
-        ], 
-        "unitsType": 0, 
-        "volumeNumSamples": 16, 
-        "volumeRayContributionScale": 0.0
-    }, 
-    {
-        "SAMPLINGOVERRIDES_numShadowSamples": 8, 
-        "SAMPLINGOVERRIDES_shadowSamplesScale": 0.0, 
-        "affectedByRefraction": 1, 
-        "affectsDiffuse": true, 
-        "affectsSpecular": true, 
-        "areaBidirectional": false, 
-        "areaSamples": 16, 
-        "areaShape": 0, 
-        "areaSpread": 1.0, 
-        "areaVisibleInRender": true, 
-        "color": [
-            [
-                1.0, 
-                1.0, 
-                1.0
-            ]
-        ], 
-        "colorB": 1.0, 
-        "colorG": 1.0, 
-        "colorMode": 0, 
-        "colorR": 1.0, 
-        "decayType": 0, 
-        "diffuseRayContributionScale": 1.0, 
-        "dropoff": 0.0, 
-        "emitCausticPhotons": false, 
-        "emitGiPhotons": false, 
-        "exposure": 0.0, 
-        "falloffStart": 0.0, 
-        "falloffStop": 100.0, 
-        "filename": "MayaRS", 
-        "glossyRayContributionScale": 1.0, 
-        "indirectMaxTraceDepth": 255, 
-        "indirectRayContributionScale": 1.0, 
-        "intensity": 100.0, 
-        "lumensperwatt": 17.0, 
-        "multipleScatteringRayContributionScale": 1.0, 
-        "name": "rsPhysicalLight2", 
-        "normalize": false, 
-        "on": true, 
-        "photonIntensityMultiplierCaustics": 1.0, 
-        "photonIntensityMultiplierGI": 1.0, 
-        "rotate": [
-            [
-                -33.0, 
-                -57.199999999999996, 
-                -8.807014425173989e-15
-            ]
-        ], 
-        "scale": [
-            [
-                1.0, 
-                1.0, 
-                1.0
-            ]
-        ], 
-        "shadow": true, 
-        "shadowTransparency": 0.0, 
-        "singleScatteringRayContributionScale": 1.0, 
-        "spotConeAngle": 40.0, 
-        "spotConeFalloffAngle": 5.0, 
-        "spotConeFalloffCurve": 1.0, 
-        "temperature": 6500.0, 
-        "translate": [
-            [
-                -12.871956759188526, 
-                9.583598835695039, 
-                5.713086063241217
-            ]
-        ], 
-        "unitsType": 0, 
-        "volumeNumSamples": 16, 
-        "volumeRayContributionScale": 0.0
-    }, 
-    {
-        "SAMPLINGOVERRIDES_numShadowSamples": 8, 
-        "SAMPLINGOVERRIDES_shadowSamplesScale": 0.0, 
-        "affectedByRefraction": 1, 
-        "affectsDiffuse": true, 
-        "affectsSpecular": true, 
-        "areaBidirectional": false, 
-        "areaSamples": 16, 
-        "areaShape": 0, 
-        "areaSpread": 1.0, 
-        "areaVisibleInRender": true, 
-        "color": [
-            [
-                1.0, 
-                1.0, 
-                1.0
-            ]
-        ], 
-        "colorB": 1.0, 
-        "colorG": 1.0, 
-        "colorMode": 0, 
-        "colorR": 1.0, 
-        "decayType": 0, 
-        "diffuseRayContributionScale": 1.0, 
-        "dropoff": 0.0, 
-        "emitCausticPhotons": false, 
-        "emitGiPhotons": false, 
-        "exposure": 0.0, 
-        "falloffStart": 0.0, 
-        "falloffStop": 100.0, 
-        "filename": "MayaRS", 
-        "glossyRayContributionScale": 1.0, 
-        "indirectMaxTraceDepth": 255, 
-        "indirectRayContributionScale": 1.0, 
-        "intensity": 100.0, 
-        "lumensperwatt": 17.0, 
-        "multipleScatteringRayContributionScale": 1.0, 
-        "name": "rsPhysicalLight3", 
-        "normalize": false, 
-        "on": true, 
-        "photonIntensityMultiplierCaustics": 1.0, 
-        "photonIntensityMultiplierGI": 1.0, 
-        "rotate": [
-            [
-                -45.60000000000261, 
-                156.39999999999978, 
-                0.0
-            ]
-        ], 
-        "scale": [
-            [
-                1.0, 
-                1.0, 
-                1.0
-            ]
-        ], 
-        "shadow": true, 
-        "shadowTransparency": 0.0, 
-        "singleScatteringRayContributionScale": 1.0, 
-        "spotConeAngle": 40.0, 
-        "spotConeFalloffAngle": 5.0, 
-        "spotConeFalloffCurve": 1.0, 
-        "temperature": 6500.0, 
-        "translate": [
-            [
-                2.940914109682089, 
-                9.950409568321014, 
-                -11.194106097813853
-            ]
-        ], 
-        "unitsType": 0, 
-        "volumeNumSamples": 16, 
-        "volumeRayContributionScale": 0.0
-    }
-]
+import json
+
+def filePath():
+    """ ask for file path"""
+    filepath = hou.ui.selectFile()
+    return filepath
+
+def getData(filename):
+    return eval(open(filename).read(), {"false": False, "true":True})
+
+temp_data = getData(filePath())
+
+for i in range(len(temp_data)):
+    #print(dict[i])
+    
+    data = temp_data[i]
+    
+    # Create Root Null
+    sceneroot = hou.node('/obj')
+    globalnull = sceneroot.createNode('null', 'size_locator')
+    globalnull.setParms({'scale': 1})
+    
+    
+    # Create RS_Light
+    light = hou.node("/obj").createNode('rslight', 'Key')
+    
+    light.setInput(0, globalnull)
+    hou.node("obj").layoutChildren()
+    
+    light.parmTuple('t').set(tuple(data["translate"][0]))
+    light.parmTuple('r').set(tuple(data["rotate"][0]))
+    
+    light.parm('RSL_intensityMultiplier').set(data["intensity"])    
+    light.parm('Light1_exposure').set(data["exposure"])
+    
+    light.parm('RSL_affectDiffuse').set(data["affectsDiffuse"])
+    light.parm('RSL_bidirectional').set(data["areaBidirectional"])
+    light.parm('RSL_visible').set(data["areaVisibleInRender"])
+    light.parm('RSL_volumeScale').set(data["volumeRayContributionScale"])
+    light.parm('RSL_areaShape').set(data["areaShape"])
+    
+    light.setGenericFlag(hou.nodeFlag.DisplayComment, True)
+    light.setComment(data["name"])
+
+
+
+#attributes = ['scale', 'rotate', 'translate', 'intensity', 'color', 'affectsDiffuse', 'affectsSpecular','areaVisibleInRender', 'areaBidirectional', 'volumeRayContributionScale', 
+#    'exposure', 'areaShape','spotConeAngle', 'areaSamples','areaSpread','on', 'colorR', 'colorG','colorB','temperature','colorMode', 'intensity', 
+#    'exposure', 'unitsType','lumensperwatt','decayType','falloffStart', 'falloffStop', 'shadow', 'shadowTransparency', 
+#    'SAMPLINGOVERRIDES_shadowSamplesScale','SAMPLINGOVERRIDES_numShadowSamples', 'spotConeFalloffAngle',
+#    'spotConeFalloffCurve','affectedByRefraction', 'emitGiPhotons', 'emitCausticPhotons','normalize',
+#    'photonIntensityMultiplierGI','photonIntensityMultiplierCaustics','diffuseRayContributionScale',
+#    'glossyRayContributionScale','singleScatteringRayContributionScale','multipleScatteringRayContributionScale',
+#    'indirectRayContributionScale', 'indirectMaxTraceDepth', 'volumeRayContributionScale','volumeNumSamples','dropoff']   
+
