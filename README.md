@@ -24,13 +24,6 @@ Select the .json and see the magic!
 ![0ff36ec841eb3d64d4298753de060f3f](https://user-images.githubusercontent.com/44348300/47940627-8bdd0a00-deeb-11e8-89af-e0f9c20ff044.png)
 
 
-### what does not work?
+### 주의사항
 
-It only works for physical based lights (you should use them 99% of the time eitherway).
-
-In earlier versions of Redshift there is a bug, take the latest and greatest.
-
-Path select with ``$HIP/Desktop/`` in Houdini does not work.
-
-Just insert ``C:/Users/Desktop/`` as path.
-
+SampleRsLight.json <- 이거 JSON파일 포멧이 아니예요. 그냥, 파일포멧만 JSON이라고 생각하세요. 데이타는 리스트형이고 각각의 카메라가 딕셔너리형태로 리스트로 저장이 되어있습니다.
